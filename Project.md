@@ -2,7 +2,7 @@
 
 
 
-      #####  A small point of view, with some inspirations from Alan Turing.
+ ##### A small point of view, with some inspirations from Alan Turing.
 
 
 
@@ -13,8 +13,6 @@
 - When we the about unresolved problems or even the creation of mechanisms that allow a better use of resources, and even an increased productivity, we always come across paradigms that everything has already been invented, or even solutions for everything, which is not true, because there is still a lot to be done, we have evolved a lot and we still have a lot to improve, develop and create, but for that we need to dedicate ourselves, learn from the past, and mainly believe that we have necessary strength to improve everything that has already been done and the competence necessary to create what has not yet been invented.
 
 - I believe that even with all the advances already made, we need to improve even more, and like Alan, who contributed a lot whit his ideas and work, we need to accomplish many times what no one imagines, we need to have a lot creativity to solve problems, and create solutions for our needs overcome flaws and always improve our methods, thus improving and evolving every day more.   
-
-     
 
      
 
